@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiDoble", "apiDoble\apiDoble.csproj", "{9A027E32-5850-4773-BF10-39F0C82CE837}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiImpar", "apiImpar\apiImpar.csproj", "{3F17399C-A2DD-4ADD-823C-9E59110A35DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPar", "apiPar\apiPar.csproj", "{919302D4-0F24-4E7E-B109-65B477E2A4D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9A027E32-5850-4773-BF10-39F0C82CE837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9A027E32-5850-4773-BF10-39F0C82CE837}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9A027E32-5850-4773-BF10-39F0C82CE837}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9A027E32-5850-4773-BF10-39F0C82CE837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F17399C-A2DD-4ADD-823C-9E59110A35DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F17399C-A2DD-4ADD-823C-9E59110A35DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F17399C-A2DD-4ADD-823C-9E59110A35DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F17399C-A2DD-4ADD-823C-9E59110A35DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919302D4-0F24-4E7E-B109-65B477E2A4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919302D4-0F24-4E7E-B109-65B477E2A4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919302D4-0F24-4E7E-B109-65B477E2A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919302D4-0F24-4E7E-B109-65B477E2A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
